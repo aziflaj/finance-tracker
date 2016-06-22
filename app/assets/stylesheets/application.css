@@ -14,3 +14,11 @@
  *= require_tree .
  *= require_self
  */
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.left-padding {
+  padding-left: 15px !important;
+}
